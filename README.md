@@ -1,0 +1,1 @@
+Data seismic catalog used for the optimization and forecasting for the paper "Bayesian Earthquake Forecasting approach based on the Epidemic Type Aftershock Sequence model" under consideration in Scientific Reports.
